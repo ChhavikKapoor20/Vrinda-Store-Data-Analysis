@@ -18,8 +18,9 @@ Vrind Store wants to create an annual sales report for 2023 so that, they can un
 
 ## Files
 
-- Vrinda_Store_Data.xlsx
+- Vrinda_Store_Dataset.xlsx
 - Vrinda_Store_Data_Analysis.xlsx
+- VrindaStoreReport2023.png
 
 ## Insights
 
